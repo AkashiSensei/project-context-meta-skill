@@ -22,7 +22,7 @@ Standardized workflow skills:
 - **sync-spec**: Synchronize specifications
 - **start-task**: Begin new tasks
 - **archive-task**: Complete and archive tasks
-- **commit-helper**: Generate conventional commits
+- **commit-helper**: Commit task-relevant changes using project commit style
 
 ### Prompts (Behavior-Level)
 Defines AI behavior and interaction patterns:
